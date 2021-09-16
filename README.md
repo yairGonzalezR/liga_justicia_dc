@@ -8,3 +8,6 @@ Pueden hacer lo que quieran...
 
 ### Actualizado desde GitHub
 Este es un mensaje actualizado completamente desde GitHub
+
+### Esta es una segunda actualización
+Segunda actualización desde GitHub
